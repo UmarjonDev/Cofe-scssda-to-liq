@@ -1,0 +1,43 @@
+.our{
+    margin-top: 150px;
+}
+
+
+.our__h4{
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+color: #83888F;
+margin-left: 120px;
+}
+
+.our__h5{
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 36px;
+color: #333D4B;
+}
+.our__span{
+display: block;
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #333D4B;
+}
+
+.our__ul{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 72px;
+}
+.our__li{
+    list-style-type: none;
+    padding-left: 80px;
+    padding-right: 80px;
+}

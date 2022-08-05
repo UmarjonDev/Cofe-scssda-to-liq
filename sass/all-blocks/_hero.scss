@@ -1,0 +1,36 @@
+.hero{
+    margin-top: 54.56px;
+}
+.hero .container{
+    background-image: url(../img/Bitmap.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    width: 1300px;
+    height: 400px;
+}
+.hero__info{
+width: 398px;
+height: 164px;
+padding-left: 97px;
+padding-top: 118px;
+
+}
+.hero__h2{
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 40px;
+color: #FEFCF7;
+}
+.hero__p{
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+color: #FEFCF7;
+mix-blend-mode: normal;
+opacity: 0.8;
+}
